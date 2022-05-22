@@ -8,6 +8,11 @@ type Props = {
 export const Button = ({ children, ...rest }: Props) => {
 
     return (
-        <button className="p-4 text-white transition bg-pink-500 rounded-xl hover:bg-pink-600" {...rest}>{children}</button>
+        <button
+            className="inline-flex items-center px-4 py-2 text-sm font-medium text-white border border-transparent rounded-md shadow-sm bg-amber-600 hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-amber-500"
+            {...rest}
+        >
+            {children}
+        </button>
     )
 }
