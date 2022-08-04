@@ -114,10 +114,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@midnight-city/emojid@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@midnight-city/emojid/-/emojid-0.5.0.tgz#47606de11c58e2cf852e8710a258dddc2b36d4d9"
-  integrity sha512-CZFRjS9DLdEiNJklfnz5DlxQZpRZ9esqfFOuJbazNN4uNeOjDV0L8jAA+lKIrF4h6s51GTjjx8U8nOypMhH24g==
+"@midnight-city/emojid@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@midnight-city/emojid/-/emojid-1.0.2.tgz#eb791bcaeaa34afa0d26c13016c1bd17b3f09b7a"
+  integrity sha512-KSQt4AOvnLXosnLYQQq4hEA1J7v2+amga9rjXvWfoZWn3CS9a6xQgV8w8sACHr5J3yHe0KbX4WR7hGnDTddIag==
 
 "@napi-rs/triples@1.0.3":
   version "1.0.3"
